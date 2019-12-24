@@ -1,2 +1,1 @@
-# test
-日常训练
+记录LeetCode刷题笔记
